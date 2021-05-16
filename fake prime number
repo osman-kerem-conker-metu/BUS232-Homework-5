@@ -1,0 +1,170 @@
+primeNumber1 = 2
+primeNumber2 = 3
+
+equation1 = primeNumber1*primeNumber2
+
+print("Fake prime in posiiton 1 is ",equation1)
+
+
+
+primeNumber3 = 3
+primeNumber4 = 5
+
+equation2 = primeNumber3*primeNumber4
+
+print("Fake prime in posiiton 2 is ",equation2)
+
+
+
+primeNumber5 = 5
+primeNumber6 = 7
+
+equation3 = primeNumber5*primeNumber6
+
+print("Fake prime in posiiton 3 is ",equation3)
+
+
+
+primeNumber7 = 7
+primeNumber8 = 11
+
+equation4 = primeNumber7*primeNumber8
+
+print("Fake prime in posiiton 4 is ",equation4)
+
+
+
+primeNumber9 = 11
+primeNumber10 = 13
+
+equation5 = primeNumber9*primeNumber10
+
+print("Fake prime in posiiton 5 is ",equation5)
+
+
+
+primeNumber11 = 13
+primeNumber12 = 17
+
+equation6 = primeNumber11*primeNumber12
+
+print("Fake prime in posiiton 6 is ",equation6)
+
+
+
+primeNumber13 = 17
+primeNumber14 = 19
+
+equation7 = primeNumber13*primeNumber14
+
+print("Fake prime in posiiton 7 is ",equation7)
+
+
+
+primeNumber15 = 19
+primeNumber16 = 23
+
+equation8 = primeNumber15*primeNumber16
+
+print("Fake prime in posiiton 8 is ",equation8)
+
+
+
+primeNumber17 = 23
+primeNumber18 = 29
+
+equation9 = primeNumber17*primeNumber18
+
+print("Fake prime in posiiton 9 is ",equation9)
+
+
+
+primeNumber19 = 29
+primeNumber20 = 31
+ 
+equation10 = primeNumber19*primeNumber20
+
+print("Fake prime in posiiton 10 is ",equation10)
+
+
+
+primeNumber21 = 31
+primeNumber22 = 37
+
+equation11 = primeNumber21*primeNumber22
+
+print("Fake prime in posiiton 11 is ",equation11)
+
+
+
+primeNumber23 = 37
+primeNumber24 = 41
+
+equation12 = primeNumber23*primeNumber24
+
+print("Fake prime in posiiton 12 is ",equation12)
+
+
+
+primeNumber25 = 41
+primeNumber26 = 43
+
+equation13 = primeNumber25*primeNumber26
+
+print("Fake prime in posiiton 13 is ",equation13)
+
+
+
+primeNumber27 = 43
+primeNumber28 = 47
+
+equation14 = primeNumber27*primeNumber28
+
+print("Fake prime in posiiton 14 is ",equation14)
+
+
+
+primeNumber29 = 47
+primeNumber30 = 53
+
+equation15 = primeNumber29*primeNumber30
+
+print("Fake prime in posiiton 15 is ",equation15)
+
+
+
+primeNumber31 = 53
+primeNumber32 = 59
+
+equation16 = primeNumber31*primeNumber32
+
+print("Fake prime in posiiton 16 is ",equation16)
+
+
+
+primeNumber33 = 59
+primeNumber34 = 61
+
+equation17 = primeNumber33*primeNumber34
+
+print("Fake prime in posiiton 17 is ",equation17)
+
+
+
+primeNumber35 = 61
+primeNumber36 = 67
+
+equation18 = primeNumber35*primeNumber36
+
+print("Fake prime in posiiton 18 is ",equation18)
+
+
+
+primeNumber37 = 67
+primeNumber38 = 71
+
+equation19 = primeNumber37*primeNumber38
+
+print("Fake prime in posiiton 19 is ",equation19)
+
+
